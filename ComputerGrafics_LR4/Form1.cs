@@ -53,8 +53,8 @@ namespace ComputerGrafics_LR4
 
 
 
-
-        private void FormImageMatrix() //метод формирования матрицы яркостей
+        //метод формирования матрицы яркостей
+        private void FormImageMatrix() 
         {
             for (int y = 0; y < image.Height; y++)
             {
